@@ -1,4 +1,4 @@
-# POWERBI_DASHBOARD_PROJECT
+# POWERBI_DASHBOARD_PROJECT 1
 
 This Power BI dashboard is built using the Superstore Sales, profit and quantity across multiple dimentions. It provides an interactive, visual representation to support data-driven decisions for business growth and sales strategy.
 
