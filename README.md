@@ -31,8 +31,7 @@ DATASET SOURCE - Sample Superstore Dataset (publicly available on Kaggle)
 Fields Used: State, Region, Category, Sub-Category, Segment, Sales, Profit, Quantity, Order Date.
 
 ABOUT THE CREATOR - 
-Vishvita Nigam
- MBA in Business Analytics & Marketing
- Passionate about turning raw data into actionable insights
- Focused on creating visually impactful dashboards and solving real-world business problems through data
+Vishvita Nigam 
+
+ MBA in Business Analytics & Marketing. Passionate about turning raw data into actionable insights. Focused on creating visually impactful dashboards and solving real-world business problems through data.
  Connect with me on LinkedIn (www.linkedin.com/in/vishvita-nigam-)
